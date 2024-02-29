@@ -254,7 +254,7 @@ body {
     }
 }
 
-@media (min-width: 460px) {
+@media (max-width: 460px) {
 	.posts {
 		place-items: center;
 	}
